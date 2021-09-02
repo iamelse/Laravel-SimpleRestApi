@@ -1,3 +1,41 @@
+# Simple CRUD Rest API with Laravel 8
+
+
+## Getting Started
+
+### Select All Data
+
+- Endpoints http://[yourlocahostname]/api/transaction
+<p align="center">
+<img src="https://user-images.githubusercontent.com/59023167/131791200-434c5c03-4aa9-4f60-873b-7ffb286a9f33.png" width=70% height=70%>
+</p>
+
+### Select Specific Data
+- Endpoints http://[yourlocalhostname]/api/transaction/{id}
+<p align="center">
+<img src="https://user-images.githubusercontent.com/59023167/131792242-0bd052cc-9d1e-4cb4-8dbd-61b06805e2e9.png" width=70% height=70%>
+</p>
+
+### Insert Data
+- Endpoints 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/59023167/131793014-f0190df8-a926-48ed-8a5b-2c9dc3983c42.png" width=70% height=70%>
+</p>
+
+### Edit Data
+- Endpoints http://[yourlocalhostname]/api/transaction/{id} 
+- {id} change with data ID you want to edit
+<p align="center">
+<img src="https://user-images.githubusercontent.com/59023167/131793458-3f738f26-a0b7-47b0-a593-7bcb11625d3b.png" width=70% height=70%>
+</p>
+
+### Delete Data
+- Endpoints http://[yourlocalhostname]/api/transaction/{id} 
+- {id} change with data ID you want to delete
+<p align="center">
+<img src="https://user-images.githubusercontent.com/59023167/131793677-34826015-f8ac-44a4-8fbb-45032058753a.png" width=70% height=70%>
+</p>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
